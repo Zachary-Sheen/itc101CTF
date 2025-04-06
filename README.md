@@ -1,11 +1,10 @@
 # itc101CTF
 ***Secrets Between the Lines***
 
-**Tags**
-
-Steganography, Cryptography
+**Tags** - Steganography, Cryptography
 
 **Category** - Steganography
+
 
 
 *Description*
