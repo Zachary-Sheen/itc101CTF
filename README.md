@@ -23,4 +23,8 @@ care about his birds.  Can you look through these files and find something wierd
 
 2 - Some notes don't really look like they should be there.  Maybe look into those.
 
+3 - Think about the types of cryptography we have learned, and what each of them requires.
+
+4 - The CTF is labeled steganography, so it must have something to do with an image.
+
 
